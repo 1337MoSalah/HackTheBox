@@ -778,4 +778,4 @@ Invoke-Privesc -Groups 'Users,Everyone,Authenticated Users' -Whoami -Extended -L
 
 }
 
-Invoke-Privesc -Groups 'Users,Everyone,Authenticated Users' -Whoami -Extended -Long
+Invoke-Privesc -Whoami -Extended -Long
